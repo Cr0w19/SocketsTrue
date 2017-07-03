@@ -1,0 +1,12 @@
+
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹°¢†
+Jsquid:S2095"0Close this "ServerSocket" in a "finally" clause.(»·Ìúüÿÿÿÿ
+<squid:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(±’Üéøÿÿÿÿ
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(ö„Ã8
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(¯Ú¾îÿÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ó‡Æö8€ÒŠ´Í+

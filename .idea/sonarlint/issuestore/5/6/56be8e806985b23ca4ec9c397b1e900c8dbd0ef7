@@ -1,0 +1,17 @@
+
+<squid:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬à¾
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÐŸþ¯üÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸üÈëþÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÎÏÐ…þÿÿÿÿ
+?squid:S2095"*Close this "Socket" in a "finally" clause.(ÙÞçø
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(°£ƒøÿÿÿÿ
+œ%squid:RedundantThrowsDeclarationCheck"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¾”…
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(¯Ú¾îÿÿÿÿÿ
+5squid:S3010"!Remove this assignment of "port".(ò¶
+Osquid:S1313".Make this IP "127.0.0.1" address configurable.(ƒÛœÄýÿÿÿÿ8îÉ¼ÌÐ+
